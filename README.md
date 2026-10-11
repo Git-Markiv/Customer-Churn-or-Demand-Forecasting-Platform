@@ -193,8 +193,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name**
-[Portfolio](https://your-portfolio-link) • [LinkedIn](https://www.linkedin.com/in/your-profile) • your.email@example.com
+**Vikram Mali**
+[Portfolio](https://vikram-mali-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vikram-mali-660a34438) • vikram2k04@gmail.com
 
 <div align="center">
 
